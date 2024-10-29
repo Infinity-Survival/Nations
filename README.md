@@ -47,33 +47,43 @@ Send a request to be allied with another nation.
 ```bash
   /nations ally {name_of_the_nation}
 ```
+Set your diplomatic relations to neutral.
 ```bash
   /nations neutral {name_of_the_nation}
 ```
+Set your diplomatic relations to ennemy.
 ```bash
   /nations ennemy {name_of_the_nation}
 ```
+Adds the chunk where you are located to your territory. 
 ```bash
   /nations claim
 ```
+Remove from your territory the chunk where you are located.
 ```bash
   /nations unclaim
 ```
+Transfer money from your nation's bank to another nation's bank.
 ```bash
   /nations banktransfer {99999} {name_of_the_nation}
 ```
+Set your nation's capital.
 ```bash
   /nations setcapital
 ```
+Leave the nation.
 ```bash
   /nations leave
 ```
+List all nation's warps.
 ```bash
   /nations warps
 ```
+Teleporting to the capital.
 ```bash
   /nations capital
 ```
+Protect a chunk by UNESCO
 ```bash
   /nations protectbyunesco
 ```
